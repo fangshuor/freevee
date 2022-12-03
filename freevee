@@ -8,16 +8,21 @@
 52.8.109.247/32
 54.182.201.110/32
 54.230.21.128/32
-199.59.243.222/32 #三个泛拨域名都指向该ip
+199.59.243.222/32 #五个泛拨域名都指向该ip
+a111aivottevtad-a.akamaid.net
 a153aivottevtad-a.akamaid.net
 a183aivottevtad-a.akamaid.net
-a196aivottevtad-a.akamaid.net 
+a196aivottevtad-a.akamaid.net
+a210aivottevtad-a.akamaid.net
+api.us-east-1.aiv-delivery.net
+tevs.us-east-1.aiv-delivery.net
 unagi-na.amazon.com
 q419uxwwb9b2a0.api.amazonvideo.com
 q419uxwwb9b2a0.na.api.amazonvideo.com
 global.backend.imdbtv-services.amazon.dev
 sessions.watchtower.imdbtv.amazon.dev
 msh.amazon.co.uk
+m.media-amazon.com
 dmqdd6hw24ucf.cloudfront.net
 s3-iad-2.cf.hls.row.aiv-cdn.net
 cf-trickplay.aux.pv-cdn.net
