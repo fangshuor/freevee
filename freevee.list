@@ -5,7 +5,9 @@ IP-CIDR,35.163.185.61/32,no-resolve
 IP-CIDR,50.87.93.246/32,no-resolve
 IP-CIDR,52.33.189.199/32,no-resolve
 IP-CIDR,52.46.145.208/32,no-resolve
+IP-CIDR,52.46.159.78/32,no-resolve
 IP-CIDR,52.8.109.247/32,no-resolve
+IP-CIDR,52.53.44.4/32,no-resolve
 IP-CIDR,54.182.201.110/32,no-resolve
 IP-CIDR,54.230.21.128/32,no-resolve
 IP-CIDR,199.59.243.222/32,no-resolve
@@ -15,6 +17,7 @@ DOMAIN-SUFFIX,a183aivottevtad-a.akamaid.net
 DOMAIN-SUFFIX,a196aivottevtad-a.akamaid.net
 DOMAIN-SUFFIX,a210aivottevtad-a.akamaid.net
 DOMAIN-SUFFIX,api.us-east-1.aiv-delivery.net
+DOMAIN-SUFFIX,api.amazon.com
 DOMAIN-SUFFIX,tevs.us-east-1.aiv-delivery.net
 DOMAIN-SUFFIX,unagi-na.amazon.com
 DOMAIN-SUFFIX,q419uxwwb9b2a0.api.amazonvideo.com
@@ -22,7 +25,9 @@ DOMAIN-SUFFIX,q419uxwwb9b2a0.na.api.amazonvideo.com
 DOMAIN-SUFFIX,global.backend.imdbtv-services.amazon.dev
 DOMAIN-SUFFIX,sessions.watchtower.imdbtv.amazon.dev
 DOMAIN-SUFFIX,msh.amazon.co.uk
+DOMAIN-SUFFIX,msh.amazon.com
 DOMAIN-SUFFIX,m.media-amazon.com
+DOMAIN-SUFFIX,ktpx.amazon.com
 DOMAIN-SUFFIX,dmqdd6hw24ucf.cloudfront.net
 DOMAIN-SUFFIX,s3-iad-2.cf.hls.row.aiv-cdn.net
 DOMAIN-SUFFIX,cf-trickplay.aux.pv-cdn.net
