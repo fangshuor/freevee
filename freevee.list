@@ -12,11 +12,7 @@ IP-CIDR,54.182.201.110/32,no-resolve
 IP-CIDR,54.230.21.128/32,no-resolve
 IP-CIDR,199.59.243.222/32,no-resolve
 DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,a111aivottevtad-a.akamaid.net
-DOMAIN-SUFFIX,a153aivottevtad-a.akamaid.net
-DOMAIN-SUFFIX,a183aivottevtad-a.akamaid.net
-DOMAIN-SUFFIX,a196aivottevtad-a.akamaid.net
-DOMAIN-SUFFIX,a210aivottevtad-a.akamaid.net
+DOMAIN-SUFFIX,akamaid.net
 DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,amazonvideo.com
